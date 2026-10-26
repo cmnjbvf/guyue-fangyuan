@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 批量运行产物（含用户材料，切勿提交）
+.digest-runs/
+digest-runs/
+
+# 编辑器和系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志与临时文件
+*.log
+*.tmp
+*.bak
+*.bak-*
+
+# 本技能的运行回执可能含真实项目名，按需保留
+# feedback/*.md
+# !feedback/README.md
