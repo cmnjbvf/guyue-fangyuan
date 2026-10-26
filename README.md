@@ -36,13 +36,14 @@
 | **软件** | 可执行文件、APK、ASAR、固件、运行时 | `references/SOFTWARE.md` |
 | **对话** | 聊天记录、会话日志、工单、评论 | `references/CONVERSATION.md` |
 
-### 五份跨区总纲（按"要办什么事"读）
+### 六份跨区总纲（按"要办什么事"读）
 
 | 文件 | 什么时候读 |
 |---|---|
 | `references/DONTS.md` | **接活前先扫禁令**。含一张专门对付 AI 找借口的对照表 |
 | `references/ARTIFACTS.md` | 一个东西在电脑上留下了什么痕迹；从痕迹反推事实 |
 | `references/TAKE.md` | 拆完之后要变成自己的：五维提取 / 载体表 / 重建次序 |
+| `references/DISTILL.md` | 要把一个人 / 一位作者 / 一套本事蒸成能用的规则：六步骨架 · 四层深度 · 七种手法 |
 | `references/MERGE.md` | 几个技能或文档重叠，要合成一个（含合并后的回归验证） |
 | `references/HONESTY.md` | "我这样说算不算说实话"；被纠正或被质疑时怎么办 |
 
@@ -118,6 +119,7 @@ guyue-fangyuan/
 │   ├── TEXT.md DOCUMENT.md CODE.md SOFTWARE.md CONVERSATION.md
 │   ├── ARTIFACTS.md             # 痕迹总纲：五类数据源 / 易失性顺序 / 正逆追踪
 │   ├── TAKE.md                  # 夺取与重建：五维提取 / 四层融合 / 重建次序
+│   ├── DISTILL.md               # 蒸馏引擎：六步骨架 / 四层深度 / 七种手法
 │   ├── MERGE.md                 # 合并与去重：容量线 / 三种模式 / replay 验证
 │   ├── DONTS.md                 # 禁令总表（含狡辩对照表）
 │   ├── HONESTY.md               # 说实话六条
