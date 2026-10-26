@@ -35,6 +35,7 @@ metadata:
 **要现在就开跑蒸馏**（不要原理要模板）→ 读 `references/DISTILL-CORE.md` + 跑 `scripts/style_metrics.py`（四层结构 · 七维含三个负面维度 · 三套产物模板 · 风格量化）
 想知道一个东西在电脑上留下了什么痕迹 / 从痕迹反推事实 → 读 `references/ARTIFACTS.md`（五类数据源 · 易失性顺序 · 正向逆向追踪 · 三源收敛 · Windows 痕迹速查）
 要判断"我这样说算不算说实话" / 被纠正或被质疑时怎么办 → 读 `references/HONESTY.md`（六条诚实链 · 不退让≠嘴硬 · 接受纠正≠全盘认输）
+交付前想更严格自查 / 要评审别人的产物 → 读 `references/REVIEW.md`（9 维打分 · 三条致命扣分 · 分数只能排序不能判优劣）
 
 **常备件**（不分区）：`batch-processing.md` 清单与收据、`distillation.md` 蒸馏方法、`quality-and-recall-gates.md` 质量门。
 
