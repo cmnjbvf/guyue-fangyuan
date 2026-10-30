@@ -1,5 +1,7 @@
 # 古月方源 · Guyue Fangyuan
 
+[English](README.en.md)
+
 > **一把抓住，顷刻炼化。**
 > 丢进来任何东西，出去的是能直接用的零件。
 
@@ -130,6 +132,8 @@ guyue-fangyuan/
 │   └── domain-profile.md        # 领域知识库适配（示例：接一个垂直库）
 ├── scripts/
 │   ├── digest_batch.py          # 清点 / 分段 / 哈希 / 收据对账（纯标准库）
+│   ├── style_metrics.py         # 写作风格量化
+│   ├── skill_conflict_scan.py   # 技能冲突扫描（不用相似度）
 │   └── test_digest_batch.py
 └── feedback/                    # 运行回执：踩过的坑，跨会话传递
 ```
